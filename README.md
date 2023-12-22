@@ -1,0 +1,1 @@
+I want to build a simple fullstack web app - to do list. I know it simple, but I wanted to take a break on my current project.
